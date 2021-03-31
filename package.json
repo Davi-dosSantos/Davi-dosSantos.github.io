@@ -1,0 +1,15 @@
+{
+  "name": "GitSite",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/Davi-dosSantos/Davi-dosSantos.github.io.git",
+  "author": "Davi Costa <daviita1@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
